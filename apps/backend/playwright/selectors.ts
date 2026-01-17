@@ -8,8 +8,9 @@ export const GoogleMeetSelectors = {
     captions: "#yDmH0d > c-wiz > div > div > div.TKU8Od > div.crqnQb > div > div.fJsklc.nulMpf.Didmac.G03iKb.hLkVuf > div > div > div.DtJ7e > div > div > div.nMcdL.bj4p3b > div.ygicle.VbkSUe",
     captionButton: "#yDmH0d > c-wiz > div > div > div.TKU8Od > div.crqnQb > div > div:nth-child(8) > div > div > div.Tmb7Fd > div.R5ccN > div.juFBl > span > button",
     totalParticiPants: "#ME4pNd > div:nth-child(2) > div > div.hWX4r > div.ggUFBf.eRa1Wc > div.m3Uzve.RJRKn > div > div > div > div.d5NbRd-EScbFb-JIbuQc.Kqi1ib > div > span > div > div.MKVSQd",
-    seeTotalLayoutOne: "#yDmH0d > c-wiz > div > div > div.TKU8Od > div.crqnQb > div > div:nth-child(8) > div > div > div.jsNRx > nav > div:nth-child(2) > div > span > button",
-    seeTotalLayoutTwo: "#ow23 > span:nth-child(2) > span > span > div > div > div > div > div > div.egzc7c > div:nth-child(1) > div",
+    TopLayout: "#ow26 > span:nth-child(2) > span > span > div > div > div > div > div > div.egzc7c > div:nth-child(1) > div",
+    bottomLayout: "#yDmH0d > c-wiz > div > div > div.TKU8Od > div.crqnQb > div > div:nth-child(8) > div > div > div.jsNRx > nav > div:nth-child(2) > div > div > div",
     members: "#c327 > div > div > div.SKWIhd > div.zSX24d > div.jKwXVe"
   } as const;
+  
   

@@ -1,0 +1,11 @@
+{
+  "text": [
+    "Hello.",
+    "Hello. Hello.",
+    "Hello. Hello. I'm testing this after.",
+    "Hello. Hello. I'm testing this app. That's it."
+  ],
+  "startTime": "2026-01-17T03:03:13.119Z",
+  "endTime": "2026-01-17T03:04:10.665Z",
+  "meetingDuration": 0
+}
